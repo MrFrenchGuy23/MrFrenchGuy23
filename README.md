@@ -27,22 +27,4 @@
 ![Velocity](https://img.shields.io/badge/Velocity-00ADB5?style=for-the-badge)
 ![Fabric](https://img.shields.io/badge/Fabric-FFF8E7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjEuNv1OCegAAAE6SURBVDhPjZMxTsNAEEX3N3aEFB0iBQUiBwUlBQ0VJbfhAlyDG3ANLkBBQUFBQUEBFZKSIkWKFF9h3uzO2utNApE/WZqd/+bP2N6JoggBYIyBECKM4xhKKQAAYwyiKIIxBlmWXQH4IyLSbrcrxhiKoshYlgVKKYqiCJRSKKVACMHj46N+fn6+IiLEcXx+cXHxMBgMwBgDIYQQQiBNU8xmMxiGgU6nA9d1IYQA5xxlWZ7f3t6+djqdKwDnJycnN8vl8lMIgSRJQAgBpRSiKIIxBlmWwXVdGIYBKSW01pjNZivXdR8B7AohIAiCz+Vy+UEIgRACGGNIkgSWZYEQgul0CqUUGGOoqiqUUra/r+u6CIIAS0opaK0BAFprUEpBKYU8z1EUBSilIKVEWZZQSsFxHBBCHFmW9XN2eHh4QAgBIQSUUl9KqTxN068sy+4B/ANHHPmJmJT4rAAAAABJRU5ErkJggg==)
 
-### All Projects
-
-| Project | Language | Type |
-|---------|----------|------|
-| **Updraft Website** | HTML, CSS, JS, Python | Website + Cloudflare Worker |
-| **Updraft AC** | Java | Paper plugin (anti-cheat) |
-| **Updraft Duels** | Java | Paper plugin (duels/tournaments) |
-| **Updraft Quests** | Java | Paper plugin (quests & rewards) |
-| **Updraft Party** | Java | Paper plugin (party system) |
-| **Updraft Transfer** | Java | Paper plugin (server transfer) |
-| **Updraft Orders** | Java | Paper plugin (command ordering) |
-| **Optimized** | Java | Paper plugin (server optimizer) |
-| **Fancy Clans** | Java | Paper plugin (clan system) |
-| **flowclient** | Java | Fabric mod (client-side) |
-| **FWPL** | Java | BungeeCord/Velocity plugin (friends) |
-| **maintenance placeholder** | Java | BungeeCord/Spigot plugin (maintenance) |
-| **rg converter** | Java | Spigot plugin (region transfer) |
-| **uac** | Java | Paper plugin (anti-cheat) |
 
