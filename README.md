@@ -1,8 +1,8 @@
 
 
-## 17 year old web/software developer.
+## wsg, i'm uhh french.
 
-## Languages Used Across Projects
+## langs i use to code stuff
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +19,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Build Systems & Frameworks
+### build sys and frameworks
 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
@@ -27,7 +27,7 @@
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Minecraft Platforms
+### mc server softwares i code for
 
 ![Paper](https://img.shields.io/badge/Paper-2C2C2C?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjEuNv1OCegAAAGkSURBVDhPjZM9TsNAEIX3G9+QIkWKroScI1AiISEl5+ASXIMLcAUKCgpKSpd/kUOkSJGf0PM2e2Y3XtuJH0iaWe983ox3vY7jGAsyTdPjsiyPi6JYmqZ5syzr+Waz+fB9H7quO+d5fgZkx3X/TNO8qOv6S9d1x3EcnCJN0wcAOIqiOMuyO1VVL5rWNA3C6XQKAPh+fX19BxLo4uLiY2tZ1h0AYJZl76qqXqpS4TQa4xOBnNPp9Kmq6h0RnSRJvqqq3k3T/LLAOE3TPMuy1yzLXi3Lmi2KYsY47wNA1i7v9/tF3/cHADhjDCzLmjebjS9Jki+K4hcAII7jlyiKni3L+gVgFEUviqIscRxDnucwGo2AiMAYgyiKYJqmwXVdQAQAAP4mDMMwUBQFTNOE6XQKAKiqCoZhgO/7TxiG4e8H+5KiKKvVanW3Xq9vJElaLpfLsizLc13XC4SQaJpmv16v70RRfGKMfZB4KYpiJkmS7/v+YrFYfG61Wqssy95kWd6LooghhISSJE0B4BcCBJubwh5uYAAAAABJRU5ErkJggg==)
 ![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjEuNv1OCegAAAHpSURBVDhPjZM/a1NRFMa/9+Y9XpI2qSFiKzgUnIJu4uSk4OQn6Ceo4OQnuDm5uQgOQqdCJ3FwU0qgS0GwtEGatEnz8t679zi8l5c0WsGf9Jd77znn/HnvufcKtVotzqKYpilKKQBAEASwbRuKovi2bcM0TViWBcMwoCjKYBhGTEQYhmEpiqIQQBiGMAwDlmX5tm3DsixYlgXTNOG6LhzHgW3biOP4sSiK50SEXq/3pN/vPwfQ6/f7j4ko4DlXURRBEAQwDAPD4RCGYcB1XeRyOZimCcdxwPP8ExGJRSLy8/NzfjAY1AghB+c5/DiOoes64jhGlmXwfR+e5yEMQwRBgCiKEEURVqvVD87kr1Qq8xmGoes6pJRwXReKoiCOY+RyOQBAEARQFAWEEFiWhV6v90VV1YeMMdRqtdlsNmNZloVSqQTXdSGEGBJCYK/XQ61WA8/zME0T9Xr9kyzLz4noN0IIGGMgIpimCdu2YVlWn2EYCoUCKKUwTRNVVf0kxXH8louL8zyPlZVFpFIKKSWklFBKCUqpJyJCkiSEYYhwOKQrAkppDAaD4b8EKaWQJAmKooCUkpeS8zwkSQIRgYggpcTv5eXlCyEEP8uyB0op9bIsg5QSnuc9S9O0XhQFrKysICklCCFMkiS8lFKCiEBEwPM8BEFYEEXx/n8B8xueM4YqJtEAAAAASUVORK5CYII=)
