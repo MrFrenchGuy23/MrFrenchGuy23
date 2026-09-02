@@ -19,7 +19,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![French's Stats](https://github-readme-stats.vercel.app/api?username=MrFrenchGuy23&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&border_color=333333&custom_title=French%27s%20Stats)
+[![French's Stats](https://github-readme-stats.vercel.app/api?username=MrFrenchGuy23&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&custom_title=French%27s%20Stats)](https://github.com/MrFrenchGuy23)
 
 
 =======
