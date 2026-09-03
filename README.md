@@ -1,6 +1,6 @@
 
 
-## wsg, i'm uhh french.
+## hi
 
 ## langs i use to code stuff
 
